@@ -1,0 +1,5 @@
+{
+  "name": "NanoBananaPro Storyboarder_1.0",
+  "description": "用于 NanoBananaPro 的专业工具，可根据剧本和参考图生成风格一致的网格分镜提示词。",
+  "requestFramePermissions": []
+}
